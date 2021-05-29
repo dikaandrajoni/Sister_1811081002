@@ -3,16 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Modul8_1811081007;
+package Modul8_1811081002;
 
 import jade.core.Agent;
 import jade.core.behaviours.OneShotBehaviour;
 
-/**
- *
- * @author RyderPhantom
- */
-public class OneShootBehaviour_1811081007 extends Agent{
+public class OneShootBehaviour_1811081002 extends Agent{
 
     @Override
     protected void setup() {

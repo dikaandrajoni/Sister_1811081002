@@ -3,16 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Modul8_1811081007;
+package Modul8_1811081002;
 
 import jade.core.Agent;
 import jade.core.behaviours.Behaviour;
 
-/**
- *
- * @author RyderPhantom
- */
-public class BehaviourAgent_1811081007 extends Agent{
+public class BehaviourAgent_1811081002 extends Agent{
 
     @Override
     protected void setup() {

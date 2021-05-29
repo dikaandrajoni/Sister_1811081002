@@ -8,10 +8,6 @@ package Modul8_1811081002;
 import jade.core.Agent;
 import jade.core.behaviours.TickerBehaviour;
 
-/**
- *
- * @author RyderPhantom
- */
 public class TickerBehaviour_1811081002 extends Agent{
     @Override
     protected void setup() {
